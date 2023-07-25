@@ -78,5 +78,10 @@
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
+  },
+  "openapi": "https://api.novu.co/api-json",
+  "feedback": {
+    "suggestEdit": true,
+    "raiseIssue": true
   }
 }
